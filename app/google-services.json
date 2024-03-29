@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551686624935",
+    "project_id": "mypdfapp-fbb55",
+    "storage_bucket": "mypdfapp-fbb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551686624935:android:5abc48140362baa8fbed82",
+        "android_client_info": {
+          "package_name": "utt.example.mypdfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9srih9N4IIe-Z8ecY4aP2AyrDeRYm2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
